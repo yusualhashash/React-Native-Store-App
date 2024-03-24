@@ -8,7 +8,7 @@ const firebaseConfig = {
   projectId: "idlip-online-store",
   storageBucket: "idlip-online-store.appspot.com",
   messagingSenderId: "563627750878",
-  appId: "1:563627750878:web:2a227e915c18a3d2c5194f",
+  appId: "1:YOURF FIREBASE API",
   measurementId: "G-SL3NDJ8QGJ"
 };
 
